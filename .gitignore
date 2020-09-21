@@ -7,3 +7,4 @@ Thumbs.db
 /project_root/devel
 .catkin_workspace
 CMakeLists.txt
+.vscode
